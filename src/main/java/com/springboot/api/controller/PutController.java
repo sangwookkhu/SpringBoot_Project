@@ -1,6 +1,6 @@
 package com.springboot.api.controller;
 
-import com.springboot.api.dto.MemberDto;
+import com.springboot.api.data.dto.MemberDto;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
